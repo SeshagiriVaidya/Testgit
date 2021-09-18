@@ -7,6 +7,7 @@ public class TestClass {
 		System.out.println("Changes in local");
 		System.out.println("New Change");
 		System.out.println("Other change");
+		System.out.println("More Changes");
 
 
 	}
