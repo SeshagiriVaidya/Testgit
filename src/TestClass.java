@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("New Change");
 		System.out.println("Other change");
 		System.out.println("More Changes");
+		System.out.println("Change");
 
 
 	}
